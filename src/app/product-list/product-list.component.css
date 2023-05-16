@@ -1,4 +1,10 @@
 
+.app-product-alerts button {
+  background-color: #1976d2; /* Reset the background color */
+  color: white; /* Reset the text color */
+  border: none; /* Reset the border */
+  padding: 0; /* Remove any padding */
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
